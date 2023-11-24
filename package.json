@@ -1,7 +1,18 @@
 {
-  "name": "nerdfishui",
-  "private": true,
-  "author": "Daren Malfait <daren@nerdfish.be> (https://nerdfish.be)",
+  "version": "1.0.0",
+  "name": "@moraitis/nerdfishui-md",
+  "description": "Modified version of the nerdfishui package for use on moraitis design projects.",
+  "author": {
+    "name": "Tim Moraitis",
+    "email": "tim@moraitisdesign.com"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/moraitis/nerdfishui-md.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/moraitis"
+  },
   "scripts": {
     "build": "turbo run build",
     "changeset": "changeset",
