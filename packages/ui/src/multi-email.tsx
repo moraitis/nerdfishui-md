@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {cx, isEmail as isEmailFn, useControllableState} from '@nerdfish/utils'
+import {cx, isEmail as isEmailFn, useControllableState} from '@moraitis/utils'
 
 import {
   getInputClassName,

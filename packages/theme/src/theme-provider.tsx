@@ -1,5 +1,5 @@
 import * as React from 'react'
-import {Dict, WithCSSVar} from '@nerdfish/utils'
+import {Dict, WithCSSVar} from '@moraitis/utils'
 
 import {colors} from './colors'
 import {toCSSVar} from './to-css-var'

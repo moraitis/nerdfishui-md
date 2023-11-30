@@ -1,8 +1,8 @@
 'use client'
 
 import * as React from 'react'
-import {Button, Collapsible} from '@nerdfish/ui'
-import {cx} from '@nerdfish/utils'
+import {Button, Collapsible} from '@moraitis/ui'
+import {cx} from '@moraitis/utils'
 
 interface CodeBlockProps extends React.HTMLAttributes<HTMLDivElement> {
   expandButtonTitle?: string

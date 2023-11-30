@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {cx} from '@nerdfish/utils'
+import {cx} from '@moraitis/utils'
 import {ChevronRight} from 'lucide-react'
 
 type LinkProps = React.DetailedHTMLProps<
@@ -36,7 +36,7 @@ const Link = React.forwardRef<HTMLElement, LinkProps>(
       <Tag
         ref={ref}
         className={cx(
-          'bg-transparent text-primary hover:bg-transparent dark:hover:bg-transparent inline-flex space-x-2',
+          'bg-transparent text-primary underline hover:bg-transparent text-[var(--colors-nerdfish-100)] hover:text-[var(--colors-nerdfish-500)] dark:hover:bg-transparent inline-flex space-x-2',
           className,
         )}
         tabIndex={disabled ? -1 : undefined}

@@ -1,5 +1,5 @@
 import * as React from 'react'
-import {Container, Grid} from '@nerdfish/ui'
+import {Container, Grid} from '@moraitis/ui'
 
 import {MainNav} from './main-nav'
 import {ThemeToggle} from './theme-toggle'

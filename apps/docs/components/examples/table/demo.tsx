@@ -1,5 +1,5 @@
 import * as React from 'react'
-import {Table} from '@nerdfish/ui'
+import {Table} from '@moraitis/ui'
 
 const invoices = [
   {

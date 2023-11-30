@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {Command} from '@nerdfish/ui'
+import {Command} from '@moraitis/ui'
 import {
   Calculator,
   Calendar,

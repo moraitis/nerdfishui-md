@@ -1,4 +1,4 @@
-const breakpoints = require('@nerdfish/theme').breakpoints
+const breakpoints = require('@moraitis/theme').breakpoints
 const defaultTheme = require('tailwindcss/defaultTheme')
 const plugin = require('tailwindcss/plugin')
 

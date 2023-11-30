@@ -1,7 +1,19 @@
 {
-  "name": "@nerdfish/theme",
-  "author": "Daren Malfait <daren@nerdfish.be> (https://nerdfish.be)",
   "version": "1.0.10",
+  "name": "@moraitis/theme",
+  "description": "Modified version of the nerdfishui package for use on moraitis design projects.",
+  "author": {
+    "name": "Tim Moraitis",
+    "email": "tim@moraitisdesign.com"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/moraitis/nerdfishui-md.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/moraitis",
+    "access": "public"
+  },
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -21,7 +33,7 @@
     "lint": "run-s lint:*"
   },
   "devDependencies": {
-    "@nerdfish/tsconfig": "workspace:*",
+    "@moraitis/tsconfig": "workspace:*",
     "@types/react": "^18.2.35",
     "@types/react-dom": "^18.2.14",
     "eslint": "^8.53.0",
@@ -31,11 +43,8 @@
     "tsup": "^7.2.0",
     "typescript": "^5.2.2"
   },
-  "publishConfig": {
-    "access": "public"
-  },
   "dependencies": {
-    "@nerdfish/utils": "workspace:^*",
+    "@moraitis/utils": "workspace:^*",
     "clsx": "^2.0.0",
     "tailwind-merge": "^1.14.0"
   }

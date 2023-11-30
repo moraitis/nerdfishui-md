@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {Checkbox} from '@nerdfish/ui'
+import {Checkbox} from '@moraitis/ui'
 import {Cross} from 'lucide-react'
 
 export function CheckboxIcon() {

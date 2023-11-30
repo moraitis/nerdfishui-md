@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {cx, roundToNearest15} from '@nerdfish/utils'
+import {cx, roundToNearest15} from '@moraitis/utils'
 import {AlertCircle, Clock} from 'lucide-react'
 
 import {

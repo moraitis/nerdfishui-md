@@ -1,8 +1,8 @@
 'use client'
 
 import * as React from 'react'
-import {Button, Calendar, Popover} from '@nerdfish/ui'
-import {cx} from '@nerdfish/utils'
+import {Button, Calendar, Popover} from '@moraitis/ui'
+import {cx} from '@moraitis/utils'
 import {addDays, format} from 'date-fns'
 import {Calendar as CalendarIcon} from 'lucide-react'
 import {DateRange} from 'react-day-picker'

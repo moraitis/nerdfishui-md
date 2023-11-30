@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {Button, Input, Label, Popover} from '@nerdfish/ui'
+import {Button, Input, Label, Popover} from '@moraitis/ui'
 import {Cake} from 'lucide-react'
 
 export function PopoverDemo() {

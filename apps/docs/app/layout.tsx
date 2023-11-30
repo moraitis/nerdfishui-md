@@ -1,10 +1,10 @@
 import * as React from 'react'
 import {Inter as fontSans} from '@next/font/google'
 
-import '@nerdfish/theme/dist/nerdfishui.css'
+import '@moraitis/theme/dist/nerdfishui.css'
 import 'tailwindcss/tailwind.css'
 
-import {cx} from '@nerdfish/utils'
+import {cx} from '@moraitis/utils'
 
 import {Layout} from '../components/layout'
 import {AppProviders} from '../context/app-providers'

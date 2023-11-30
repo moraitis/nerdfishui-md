@@ -1,5 +1,5 @@
 import * as React from 'react'
-import {cx} from '@nerdfish/utils'
+import {cx} from '@moraitis/utils'
 
 interface CalloutProps {
   icon?: string

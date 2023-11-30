@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {Combobox} from '@nerdfish/ui'
+import {Combobox} from '@moraitis/ui'
 import {Icons} from 'components/icons'
 
 export function ComboboxDemo() {

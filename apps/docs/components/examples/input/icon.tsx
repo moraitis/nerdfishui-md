@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {Input} from '@nerdfish/ui'
+import {Input} from '@moraitis/ui'
 import {CheckCircle} from 'lucide-react'
 
 export function InputIcon() {

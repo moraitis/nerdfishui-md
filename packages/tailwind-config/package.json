@@ -1,7 +1,19 @@
 {
-  "name": "@nerdfish/tailwind-config",
-  "author": "Daren Malfait <daren@nerdfish.be> (https://nerdfish.be)",
   "version": "1.3.6",
+  "name": "@moraitis/tailwind-config",
+  "description": "Modified version of the nerdfishui package for use on moraitis design projects.",
+  "author": {
+    "name": "Tim Moraitis",
+    "email": "tim@moraitisdesign.com"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/moraitis/nerdfishui-md.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/moraitis",
+    "access": "public"
+  },
   "sideEffects": false,
   "license": "MIT",
   "main": "./index.js",
@@ -11,8 +23,8 @@
     "lint": "run-s lint:*"
   },
   "devDependencies": {
-    "@nerdfish/theme": "workspace:^*",
-    "@nerdfish/tsconfig": "workspace:*",
+    "@moraitis/theme": "workspace:^*",
+    "@moraitis/tsconfig": "workspace:*",
     "@types/react": "^18.2.35",
     "@types/react-dom": "^18.2.14",
     "eslint": "^8.53.0",
@@ -24,8 +36,5 @@
   },
   "dependencies": {
     "tailwindcss": "3.3.5"
-  },
-  "publishConfig": {
-    "access": "public"
   }
 }

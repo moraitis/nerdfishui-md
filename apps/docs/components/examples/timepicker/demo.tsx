@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {Timepicker} from '@nerdfish/ui'
+import {Timepicker} from '@moraitis/ui'
 
 export function TimepickerDemo() {
   return (

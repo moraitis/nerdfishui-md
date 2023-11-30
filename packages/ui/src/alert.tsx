@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {cva, cx, VariantProps} from '@nerdfish/utils'
+import {cva, cx, VariantProps} from '@moraitis/utils'
 import {AlertTriangle, Info, Verified, XCircle} from 'lucide-react'
 
 const DEFAULT_VARIANT = 'info'

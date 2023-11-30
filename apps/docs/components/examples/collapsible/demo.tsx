@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {Button, Collapsible} from '@nerdfish/ui'
+import {Button, Collapsible} from '@moraitis/ui'
 import {ChevronsUpDown} from 'lucide-react'
 
 export function CollapsibleDemo() {

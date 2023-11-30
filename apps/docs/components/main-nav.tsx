@@ -1,6 +1,6 @@
 import * as React from 'react'
 import Link from 'next/link'
-import {cx} from '@nerdfish/utils'
+import {cx} from '@moraitis/utils'
 
 import {siteConfig} from '../config/site'
 import {Logo} from './logo'

@@ -2,7 +2,7 @@
 
 import * as React from 'react'
 import {type NextRequest} from 'next/server'
-import {cx} from '@nerdfish/utils'
+import {cx} from '@moraitis/utils'
 import {ImageResponse} from '@vercel/og'
 
 import {ogImageSchema} from '../../lib/types/og'

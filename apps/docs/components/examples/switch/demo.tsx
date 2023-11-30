@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {Label, Switch} from '@nerdfish/ui'
+import {Label, Switch} from '@moraitis/ui'
 
 export function SwitchDemo() {
   return (

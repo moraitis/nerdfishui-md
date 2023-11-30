@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {Toggle} from '@nerdfish/ui'
+import {Toggle} from '@moraitis/ui'
 import {Bold, Italic} from 'lucide-react'
 
 export function ToggleSize() {

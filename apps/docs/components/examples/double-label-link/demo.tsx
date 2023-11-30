@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {DoubleLabelLink} from '@nerdfish/ui'
+import {DoubleLabelLink} from '@moraitis/ui'
 
 export function DoubleLabelLinkDemo() {
   return (

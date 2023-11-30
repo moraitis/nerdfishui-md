@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {Grid} from '@nerdfish/ui'
+import {Grid} from '@moraitis/ui'
 
 export function GridDemo() {
   return (

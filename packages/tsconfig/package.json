@@ -1,6 +1,6 @@
 {
-  "name": "@nerdfish/tsconfig",
-  "author": "Daren Malfait <daren@nerdfish.be> (https://nerdfish.be)",
+  "name": "@moraitis/tsconfig",
+  "author": "Daren Malfait <daren@moraitis.be> (https://nerdfish.be)",
   "version": "1.0.0",
   "private": true,
   "license": "MIT",

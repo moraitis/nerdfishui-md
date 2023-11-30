@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {MultiEmail} from '@nerdfish/ui'
+import {MultiEmail} from '@moraitis/ui'
 
 export function MultiEmailDemo() {
   return (

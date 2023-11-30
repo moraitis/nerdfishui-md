@@ -1,7 +1,7 @@
 import * as React from 'react'
 import {usePathname} from 'next/navigation'
-import {NavigationList} from '@nerdfish/ui'
-import {cx} from '@nerdfish/utils'
+import {NavigationList} from '@moraitis/ui'
+import {cx} from '@moraitis/utils'
 import {docs} from 'config/docs'
 import {stripPreSlash} from 'lib/utils/string'
 

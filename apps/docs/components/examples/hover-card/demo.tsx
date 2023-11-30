@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {HoverCard} from '@nerdfish/ui'
+import {HoverCard} from '@moraitis/ui'
 
 export function HoverCardDemo() {
   return (

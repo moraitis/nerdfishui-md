@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {cx} from '@nerdfish/utils'
+import {cx} from '@moraitis/utils'
 import {addYears} from 'date-fns'
 import {ChevronLeft, ChevronRight} from 'lucide-react'
 import {DayPicker, type DateRange} from 'react-day-picker'

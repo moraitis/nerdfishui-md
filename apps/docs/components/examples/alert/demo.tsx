@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {Alert} from '@nerdfish/ui'
+import {Alert} from '@moraitis/ui'
 
 export function AlertDemo() {
   return (

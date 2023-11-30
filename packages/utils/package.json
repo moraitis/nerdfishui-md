@@ -1,6 +1,6 @@
 {
-  "name": "@nerdfish/utils",
-  "author": "Daren Malfait <daren@nerdfish.be> (https://nerdfish.be)",
+  "name": "@moraitis/utils",
+  "author": "Daren Malfait <daren@moraitis.be> (https://nerdfish.be)",
   "version": "1.3.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -19,7 +19,7 @@
     "lint": "run-s lint:*"
   },
   "devDependencies": {
-    "@nerdfish/tsconfig": "workspace:*",
+    "@moraitis/tsconfig": "workspace:*",
     "@types/react": "^18.2.35",
     "@types/react-dom": "^18.2.14",
     "eslint": "^8.53.0",

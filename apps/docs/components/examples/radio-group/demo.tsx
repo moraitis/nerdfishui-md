@@ -1,5 +1,5 @@
 import * as React from 'react'
-import {Label, RadioGroup} from '@nerdfish/ui'
+import {Label, RadioGroup} from '@moraitis/ui'
 
 export function RadioGroupDemo() {
   return (

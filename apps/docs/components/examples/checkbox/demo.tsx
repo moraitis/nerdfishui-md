@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {Checkbox} from '@nerdfish/ui'
+import {Checkbox} from '@moraitis/ui'
 
 export function CheckboxDemo() {
   return (

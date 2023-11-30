@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {Paragraph} from '@nerdfish/ui'
+import {Paragraph} from '@moraitis/ui'
 
 export function TypographyParagraph() {
   return (

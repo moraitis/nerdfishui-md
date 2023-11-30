@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {Calendar} from '@nerdfish/ui'
+import {Calendar} from '@moraitis/ui'
 
 export function CalendarDemo() {
   const [date, setDate] = React.useState<Date | undefined>(new Date())

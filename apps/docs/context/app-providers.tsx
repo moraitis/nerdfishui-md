@@ -1,8 +1,8 @@
 'use client'
 
 import * as React from 'react'
-import {ThemeProvider as NerdfishThemeProvider} from '@nerdfish/theme'
-import {ToastProvider} from '@nerdfish/ui'
+import {ThemeProvider as NerdfishThemeProvider} from '@moraitis/theme'
+import {ToastProvider} from '@moraitis/ui'
 
 import {MobileNavProvider} from './mobile-nav-provider'
 import {ThemeProvider} from './theme-provider'

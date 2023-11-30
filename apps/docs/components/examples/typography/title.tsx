@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {H2} from '@nerdfish/ui'
+import {H2} from '@moraitis/ui'
 
 export function TypographyTitle() {
   return (

@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {Tabs} from '@nerdfish/ui'
+import {Tabs} from '@moraitis/ui'
 
 export function TabsDemo() {
   return (

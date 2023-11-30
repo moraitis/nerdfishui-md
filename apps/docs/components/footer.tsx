@@ -1,7 +1,7 @@
 import * as React from 'react'
 import Link from 'next/link'
 import {usePathname} from 'next/navigation'
-import {getButtonClassName} from '@nerdfish/ui'
+import {getButtonClassName} from '@moraitis/ui'
 import {ArrowLeft, ArrowRight} from 'lucide-react'
 
 import {docs} from '../config/docs'

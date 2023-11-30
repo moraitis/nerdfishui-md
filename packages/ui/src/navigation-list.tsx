@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {cx} from '@nerdfish/utils'
+import {cx} from '@moraitis/utils'
 
 type NavigationItemProps = {
   className?: string | ((props: {isActive: boolean}) => string | undefined)

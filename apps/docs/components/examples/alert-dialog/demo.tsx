@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {AlertDialog, Button} from '@nerdfish/ui'
+import {AlertDialog, Button} from '@moraitis/ui'
 
 export function AlertDialogDemo() {
   return (

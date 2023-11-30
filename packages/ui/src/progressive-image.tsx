@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {cx, useSSRLayoutEffect} from '@nerdfish/utils'
+import {cx, useSSRLayoutEffect} from '@moraitis/utils'
 
 type ResponsiveProps = {
   maxWidth?: number

@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {Datepicker} from '@nerdfish/ui'
+import {Datepicker} from '@moraitis/ui'
 
 export function DatepickerDemo() {
   return (

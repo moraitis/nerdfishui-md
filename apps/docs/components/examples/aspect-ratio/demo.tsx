@@ -2,7 +2,7 @@
 
 import * as React from 'react'
 import Image from 'next/image'
-import {AspectRatio} from '@nerdfish/ui'
+import {AspectRatio} from '@moraitis/ui'
 
 export function AspectRatioDemo() {
   return (

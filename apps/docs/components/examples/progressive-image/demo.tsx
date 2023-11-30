@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {ProgressiveImage} from '@nerdfish/ui'
+import {ProgressiveImage} from '@moraitis/ui'
 
 export function ProgressiveImageDemo() {
   return (

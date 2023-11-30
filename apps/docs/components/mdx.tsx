@@ -4,8 +4,8 @@
 /* eslint-disable jsx-a11y/heading-has-content */
 import * as React from 'react'
 import Image from 'next/image'
-import * as uiComponents from '@nerdfish/ui'
-import {cx} from '@nerdfish/utils'
+import * as uiComponents from '@moraitis/ui'
+import {cx} from '@moraitis/utils'
 import {useMDXComponent} from 'next-contentlayer/hooks'
 
 import {NpmCommands} from '../lib/types/unist'

@@ -1,6 +1,6 @@
 import * as React from 'react'
-import {Button, Card, Switch} from '@nerdfish/ui'
-import {cx} from '@nerdfish/utils'
+import {Button, Card, Switch} from '@moraitis/ui'
+import {cx} from '@moraitis/utils'
 import {BellRing, Check} from 'lucide-react'
 
 const notifications = [

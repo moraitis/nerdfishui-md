@@ -6,7 +6,7 @@ const fromRoot = p => path.join(__dirname, p)
 
 module.exports = {
   content: [
-    fromRoot('./node_modules/@nerdfish/**/*.{js,ts,jsx,tsx}'), // path to nerdfishui
+    fromRoot('./node_modules/@moraitis/**/*.{js,ts,jsx,tsx}'), // path to nerdfishui
     fromRoot('./components/**/*.{js,jsx,ts,tsx}'),
     fromRoot('./context/**/*.{js,jsx,ts,tsx}'),
     fromRoot('./styles/**/*.{js,jsx,ts,tsx}'),
@@ -36,6 +36,6 @@ module.exports = {
   plugins: [
     require('tailwindcss-animate'),
     require('@tailwindcss/typography'),
-    require('@nerdfish/tailwind-config'),
+    require('@moraitis/tailwind-config'),
   ],
 }

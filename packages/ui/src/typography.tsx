@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {cva, cx, ExtractProps, VariantProps} from '@nerdfish/utils'
+import {cva, cx, ExtractProps, VariantProps} from '@moraitis/utils'
 
 const Paragraph = React.forwardRef<
   HTMLParagraphElement,
@@ -84,7 +84,7 @@ const Title = React.forwardRef<
         className,
       )}
     >
-      {size === 'h1' || size === 'h2' ? (
+      {/* {size === 'h1' || size === 'h2' ? (
         <div
           className={cx(
             'absolute -left-8 z-10 h-12 w-32 rounded-full opacity-50 blur-3xl',
@@ -99,7 +99,7 @@ const Title = React.forwardRef<
           )}
         />
       ) : null}
-      {props.children}
+      {props.children} */}
     </Tag>
   )
 })

@@ -1,5 +1,5 @@
 import * as React from 'react'
-import {Button, Input, Sheet} from '@nerdfish/ui'
+import {Button, Input, Sheet} from '@moraitis/ui'
 
 export function SheetDemo() {
   return (

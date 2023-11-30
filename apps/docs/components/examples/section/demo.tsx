@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {Section} from '@nerdfish/ui'
+import {Section} from '@moraitis/ui'
 
 export function SectionDemo() {
   return (

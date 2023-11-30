@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {MultiSelect} from '@nerdfish/ui'
+import {MultiSelect} from '@moraitis/ui'
 
 export function MultiSelectDemo() {
   return (

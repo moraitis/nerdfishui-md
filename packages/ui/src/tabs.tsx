@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {cx} from '@nerdfish/utils'
+import {cx} from '@moraitis/utils'
 import * as TabsPrimivite from '@radix-ui/react-tabs'
 
 const TabsList = React.forwardRef<

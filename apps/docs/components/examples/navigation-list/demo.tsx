@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {NavigationList} from '@nerdfish/ui'
+import {NavigationList} from '@moraitis/ui'
 import {Icons} from 'components/icons'
 
 export function NavigationListDemo() {

@@ -17,7 +17,7 @@ const nextConfig = {
   experimental: {
     appDir: true,
     serverComponentsExternalPackages: [
-      '@nerdfish/ui',
+      '@moraitis/ui',
       '@headlessui/react',
       '@floating-ui/dom',
     ],

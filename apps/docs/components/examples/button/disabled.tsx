@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {Button} from '@nerdfish/ui'
+import {Button} from '@moraitis/ui'
 
 export function ButtonDisabled() {
   return (

@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {Avatar} from '@nerdfish/ui'
+import {Avatar} from '@moraitis/ui'
 
 export function AvatarDemo() {
   return (

@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {Accordion} from '@nerdfish/ui'
+import {Accordion} from '@moraitis/ui'
 
 export function AccordionDemo() {
   return (

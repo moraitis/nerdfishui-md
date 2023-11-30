@@ -1,8 +1,8 @@
 'use client'
 
 import * as React from 'react'
-import {DropdownMenu} from '@nerdfish/ui'
-import {cx, ExtractProps} from '@nerdfish/utils'
+import {DropdownMenu} from '@moraitis/ui'
+import {cx, ExtractProps} from '@moraitis/utils'
 
 import {NpmCommands} from '../lib/types/unist'
 import {Icons} from './icons'

@@ -10,8 +10,8 @@ import {
   ScrollArea,
   ScrollBar,
   Tabs,
-} from '@nerdfish/ui'
-import {cx} from '@nerdfish/utils'
+} from '@moraitis/ui'
+import {cx} from '@moraitis/utils'
 import {ChefHat, Grid as GridIcon, History, User, Utensils} from 'lucide-react'
 
 interface Album {

@@ -1,8 +1,20 @@
 {
-  "name": "@nerdfish/ui",
-  "version": "2.3.5",
   "license": "MIT",
-  "author": "Daren Malfait <daren@nerdfish.be> (https://nerdfish.be)",
+  "version": "2.3.5",
+  "name": "@moraitis/ui",
+  "description": "Modified version of the nerdfishui package for use on moraitis design projects.",
+  "author": {
+    "name": "Tim Moraitis",
+    "email": "tim@moraitisdesign.com"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/moraitis/nerdfishui-md.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/moraitis",
+    "access": "public"
+  },
   "sideEffects": false,
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -19,7 +31,7 @@
     "lint": "run-s lint:*"
   },
   "devDependencies": {
-    "@nerdfish/tsconfig": "workspace:*",
+    "@moraitis/tsconfig": "workspace:*",
     "@types/react": "^18.2.35",
     "@types/react-dom": "^18.2.14",
     "eslint": "^8.53.0",
@@ -29,11 +41,8 @@
     "tsup": "^7.2.0",
     "typescript": "^5.2.2"
   },
-  "publishConfig": {
-    "access": "public"
-  },
   "dependencies": {
-    "@nerdfish/utils": "workspace:*",
+    "@moraitis/utils": "workspace:*",
     "@radix-ui/react-accordion": "^1.1.2",
     "@radix-ui/react-alert-dialog": "^1.0.5",
     "@radix-ui/react-aspect-ratio": "^1.0.3",

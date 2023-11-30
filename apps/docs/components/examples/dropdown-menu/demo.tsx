@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {Button, DropdownMenu} from '@nerdfish/ui'
+import {Button, DropdownMenu} from '@moraitis/ui'
 import {
   Cloud,
   CreditCard,

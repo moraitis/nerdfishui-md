@@ -1,5 +1,5 @@
 import * as React from 'react'
-import {Skeleton} from '@nerdfish/ui'
+import {Skeleton} from '@moraitis/ui'
 
 export function SkeletonDemo() {
   return (

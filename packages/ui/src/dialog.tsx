@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {cx} from '@nerdfish/utils'
+import {cx} from '@moraitis/utils'
 import * as DialogPrimitive from '@radix-ui/react-dialog'
 import {X} from 'lucide-react'
 

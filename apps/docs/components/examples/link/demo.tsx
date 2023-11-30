@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {Link} from '@nerdfish/ui'
+import {Link} from '@moraitis/ui'
 
 export function LinkDemo() {
   return (

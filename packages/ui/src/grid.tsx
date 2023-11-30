@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {__DEV__, cx} from '@nerdfish/utils'
+import {__DEV__, cx} from '@moraitis/utils'
 
 const Grid = React.forwardRef<
   HTMLDivElement,

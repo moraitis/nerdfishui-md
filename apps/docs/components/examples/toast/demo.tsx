@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {Button, Toast} from '@nerdfish/ui'
+import {Button, Toast} from '@moraitis/ui'
 
 export function ToastDemo() {
   const [isOpen, setIsOpen] = React.useState<boolean>(false)

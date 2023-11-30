@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {Container, Grid, ScrollArea, ToastViewport} from '@nerdfish/ui'
+import {Container, Grid, ScrollArea, ToastViewport} from '@moraitis/ui'
 
 import {Footer} from './footer'
 import {Navigation} from './navigation'

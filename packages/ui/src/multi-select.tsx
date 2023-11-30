@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import {cx, getContrastColor, useControllableState} from '@nerdfish/utils'
+import {cx, getContrastColor, useControllableState} from '@moraitis/utils'
 import {Check, ChevronsUpDown, Pencil, Plus} from 'lucide-react'
 
 import {Badge} from './badge'

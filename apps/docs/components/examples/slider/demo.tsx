@@ -1,8 +1,8 @@
 'use client'
 
 import * as React from 'react'
-import {Slider} from '@nerdfish/ui'
-import {cx} from '@nerdfish/utils'
+import {Slider} from '@moraitis/ui'
+import {cx} from '@moraitis/utils'
 
 type SliderProps = React.ComponentProps<typeof Slider>
 

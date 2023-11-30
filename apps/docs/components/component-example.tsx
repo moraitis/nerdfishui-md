@@ -1,8 +1,8 @@
 'use client'
 
 import * as React from 'react'
-import {Tabs} from '@nerdfish/ui'
-import {cx} from '@nerdfish/utils'
+import {Tabs} from '@moraitis/ui'
+import {cx} from '@moraitis/utils'
 
 import {CopyButton, CopyWithClassNames} from './copy-button'
 
