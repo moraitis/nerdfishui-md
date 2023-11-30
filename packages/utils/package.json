@@ -1,4 +1,6 @@
 {
+  "license": "MIT",
+  "version": "1.3.0",
   "name": "@moraitis/utils",
   "description": "Modified version of the nerdfishui package for use on moraitis design projects.",
   "author": {
@@ -13,12 +15,10 @@
     "registry": "https://npm.pkg.github.com/moraitis",
     "access": "public"
   },
-  "version": "1.3.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "sideEffects": false,
-  "license": "MIT",
   "files": [
     "dist/**"
   ],
