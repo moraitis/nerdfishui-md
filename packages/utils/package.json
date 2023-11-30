@@ -12,7 +12,7 @@
       "url": "https://github.com/moraitis/nerdfishui-md.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/moraitis",
+    "registry": "https://npm.pkg.github.com",
     "access": "public"
   },
   "main": "./dist/index.js",
